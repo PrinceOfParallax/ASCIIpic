@@ -3,9 +3,6 @@ from setuptools import setup
 
 NAME = "ImageToAscii"
 DESCRIPTION = 'fast converter image to ascii and fast rendering ascii to image'
-URL = "https://github.com/ittybe/imageToAscii"
-EMAIL = ""
-AUTHOR = "ittybe"
 REQUIRES_PYTHON = ">=3.7.0"
 VERSION = "1.0.0"
 
